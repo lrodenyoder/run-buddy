@@ -13,4 +13,4 @@ https://lrodenyoder.github.io/run-buddy/
 ## Contribution
 Made with ❤️ by Lauren Yoder
 
-# Run Buddy Inc.
+### ©️2019 Run Buddy, Inc 
