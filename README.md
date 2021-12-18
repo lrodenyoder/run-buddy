@@ -12,3 +12,5 @@ https://lrodenyoder.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Lauren Yoder
+
+# Run Buddy Inc.
