@@ -116,7 +116,6 @@ section {
 .hero {
     background-image: url(../images/hero-bg.jpg);
     background-size: cover;
-    background-position: center;
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
@@ -149,6 +148,11 @@ section {
     width: 40%;
     margin: 3.5%;
     border-radius: 10px;
+    box-shadow:rgba(0, 0, 0, 0.5);
+}
+
+.hero-form button:hover {
+    background-color: var(--primaryColor)
 }
 
 .hero-form h3 {
@@ -188,10 +192,6 @@ section {
     padding: 10px 20px;
     font-size: 16px;
     border-radius: 10px;
-}
-
-.hero-form button:hover {
-    background-color: var(--primaryColor)
 }
 
 .checkbox-wrapper input, .radio-wrapper input{
@@ -406,7 +406,7 @@ section {
 }
 
 .contact h2 {
-    color:var(--primaryColor);
+    color: var(--primaryColor);
 }
 
 .contact-info {
@@ -570,6 +570,10 @@ section {
 
     .step-text {
         flex: 100%;
+    }
+
+    .trainer-bio h3, .trainer-bio h4 {
+        display: block;
     }
 }
 
